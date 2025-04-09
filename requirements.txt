@@ -1,0 +1,7 @@
+streamlit
+numpy
+face_recognition
+pandas
+plotly
+opencv-python
+openpyxl
